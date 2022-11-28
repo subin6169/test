@@ -7,3 +7,5 @@ data.use <- mutate(seoul_gen,
 View(data.use)
 data.major <- mutate(data.use,
                      ma_m <- names(m))
+
+print('haha')
